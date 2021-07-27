@@ -11,3 +11,4 @@
 1. git checkout
 1. git pull
 1. git push
+1. git show
