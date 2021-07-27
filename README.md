@@ -13,4 +13,4 @@
 1. git push
 1. git show
 
-and gitk is useful.
+### and gitk is useful.
